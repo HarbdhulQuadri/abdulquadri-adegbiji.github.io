@@ -52,15 +52,15 @@ With deep hands-on experience in **Python, Node.js, CI/CD, and distributed syste
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harbdhulquadri&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbdhulquadri&layout=compact&theme=radical" width="49%" />
 </div>
 
 ---
 
 ## 🌐 Let’s Connect
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+<a href="https://www.linkedin.com/in/adegbiji" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
